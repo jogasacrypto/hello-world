@@ -1,2 +1,309 @@
 Aqui va guardada informacion de preogramas
+PROGRAMMING Tools
+
+
+******************
+
+
+Versiones de SQL SERVER Express
+https://www.campusmvp.es/recursos/post/SQL-Server-Express-la-base-de-datos-empresarial-gratuita-de-Microsoft.aspx
+https://www.fmsinc.com/MicrosoftAccess/SQLServerUpsizing/express/index.html
+
+
+Versión	Enlace de descarga
+
+SQL Server 2008	express
+http://download.microsoft.com/download/0/4/B/04BE03CD-EAF3-4797-9D8D-2E08E316C998/SQLEXPRWT_x64_ENU.exe
+
+SQL Server 2012	express
+http://download.microsoft.com/download/8/D/D/8DD7BDBA-CEF7-4D8E-8C16-D9F69527F909/ENU/x64/SQLEXPRWT_x64_ENU.exe
+
+SQL Server 2014	express
+http://download.microsoft.com/download/E/A/E/EAE6F7FC-767A-4038-A954-49B8B05D04EB/ExpressAndTools%2064BIT/SQLEXPRWT_x64_ENU.exe
+
+VERSIONES ANTERIORES
+http://es.oldversion.com/windows/sql-server-express/
+
+SQL Server Express SQL Server 2005 Express SP1
+http://es.oldversion.com/windows/download/sql-server-express-sql-server-2005-express-sp1
+
+SQL Server Express SQL Server 2005 Express SP2
+http://es.oldversion.com/windows/download/sql-server-express-sql-server-2005-express-sp2
+
+SQL Server Express SQL Server 2005 Express SP3
+http://es.oldversion.com/windows/download/sql-server-express-sql-server-2005-express-sp3
+
+SQL Server Express SQL Server 2008 R2 Express
+http://es.oldversion.com/windows/download/sql-server-express-sql-server-2008-r2-express
+
+SQL Server Express SQL Server 2012 Express
+http://es.oldversion.com/windows/download/sql-server-express-sql-server-2012-express
+
+SITIO OFICIAL 
+
+Microsoft® SQL Server® 2008 Express
+https://www.microsoft.com/es-es/download/details.aspx?id=1695
+
+Microsoft® SQL Server® 2008 Management Studio Express
+https://www.microsoft.com/es-es/download/details.aspx?id=7593
+
+Microsoft® SQL Server® 2008 Express with Advanced Services
+https://www.microsoft.com/en-us/download/details.aspx?id=1842
+
+Microsoft® SQL Server® 2008 Express with Tools
+https://www.microsoft.com/en-us/download/details.aspx?id=22973
+
+Microsoft® SQL Server® 2008 Express Edition Service Pack 1
+https://www.microsoft.com/en-us/download/details.aspx?id=25052
+
+Microsoft SQL Server 2008 SP2 Express Edition Service Pack 2
+https://www.microsoft.com/en-us/download/details.aspx?id=20610
+
+Microsoft SQL Server 2008 SP3 Express Edition
+https://www.microsoft.com/es-es/download/details.aspx?id=27597
+
+R2
+
+Microsoft SQL Server 2008 R2 RTM - Express
+https://www.microsoft.com/es-es/download/details.aspx?id=3743
+
+Microsoft SQL Server 2008 R2 RTM - Management Studio Express
+https://www.microsoft.com/es-mx/download/details.aspx?id=22985
+
+Microsoft SQL Server 2008 R2 RTM - Express with Management Tools
+https://www.microsoft.com/en-us/download/details.aspx?id=23650
+
+Microsoft® SQL Server® 2008 R2 SP1 - Express Edition
+https://www.microsoft.com/en-us/download/details.aspx?id=26729
+
+Microsoft® SQL Server® 2008 R2 SP2 - Express Edition
+https://www.microsoft.com/es-es/download/details.aspx?id=30438
+
+Microsoft® SQL Server® 2008 R2 Service Pack 3
+https://www.microsoft.com/en-us/download/details.aspx?id=44271
+
+2012
+
+Microsoft® SQL Server® 2012 Express
+https://www.microsoft.com/es-es/download/details.aspx?id=29062
+
+Microsoft® SQL Server® 2012 Service Pack 1 (SP1) Express
+https://www.microsoft.com/es-ES/download/details.aspx?id=35579
+
+Microsoft® SQL Server® 2012 Service Pack 3 (SP3) Express
+https://www.microsoft.com/es-ES/download/details.aspx?id=50003
+
+
+2014
+
+Microsoft® SQL Server® 2014 Express
+https://www.microsoft.com/es-es/download/details.aspx?id=42299
+
+Microsoft® SQL Server® 2014 Service Pack 2 (SP2) Express
+https://www.microsoft.com/en-us/download/details.aspx?id=53167
+
+
+MANUAL DE iNSTALACION
+https://www.academia.edu/28560009/INSTALACION_Y_CONFG._SQL_EXPRESS?auto=download
+
+
+2017
+SQL Server 2017 Express edition
+https://www.microsoft.com/en-us/sql-server/sql-server-editions-express?irgwc=1&OCID=AID2000142_aff_7806_1246483&tduid=(ir__a2ayoz3vugkfrmzwkk0sohzl0e2xg0qavvd1oxnt00)(7806)(1246483)(%28e849ff51d5f0737dac6b797fc60873c5%29%2881561%29%28686431%29%28at106140_a107
+
+******************
+SQL SERVER MANAGEMENT STUDIO (SSMS)
+
+https://www.guru99.com/sql-server-management-studio.html
+
+VERSIONES
+
+https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.html
+
+Download SQL Server Management Studio (SSMS)-2017
+
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
+
+Download SSMS 18.2
+
+https://go.microsoft.com/fwlink/?linkid=2099720
+
+******************
+
+
+TUTORIALES-GUIAS
+
+GuilleSQL
+
+SQL Server 2012 Express with Advanced Services
+
+http://www.guillesql.es/Articulos/SQLServer2012_Express_with_Advanced_Services.aspx
+
+
+http://www.elguille.info/
+
+
+******************
+
+Visual Studio Code. Instalación
+
+http://www.mclibre.org/consultar/informatica/lecciones/vsc-instalacion.html
+
+Visual Studio Code
+
+https://code.visualstudio.com/
+
+https://code.visualstudio.com/docs/?dv=win32user
+
+https://code.visualstudio.com/docs/?dv=win64user
+
+
+******************
+
+MICROSOFT VISUAL STUDIO ALL VERSIONS ISO DOWNLOAD
+
+
+https://www.itechtics.com/microsoft-visual-studio-all-versions-iso-download-links/
+
+
+
+
+
+
+
+
+VISUAL STUDIO 2005 EXPRESS
+
+
+
+
+
+Visual Studio 2005 Express completamente en español en imagenes.iso
+https://foro.elhacker.net/net/visual_studio_2005_express_completamente_en_espanol_en_imagenesiso-t174273.0.html
+
+
+Descarga gratuíta de Microsoft Visual Studio Express Editions
+http://www.sahw.com/wp/archivos/2005/11/08/descarga-gratuita-de-microsoft-visual-studio-express-editions/
+
+Microsoft® Visual Studio® 2005 Team Edition for Database Professionals Service Release 1
+https://www.microsoft.com/es-es/download/details.aspx?id=21390
+
+Service Pack 1 para Microsoft® Visual Studio® 2005 Express
+https://www.microsoft.com/es-ES/download/details.aspx?id=804
+
+
+VISUAL ESTUDIO 2008 Express
+
+Visual Basic 2008 Express Edition descarga
+https://visual-basic-2008-express-edition.waxoo.com/
+
+Descarga Visual Studio 2008 Express Gratis!
+http://notyel-net.blogspot.com/2011/09/descarga-visual-studio-2008-express.html
+
+Microsoft Visual Basic 2008 Express Edition  
+https://www.freewarefiles.com/Microsoft-Visual-Basic-Express-Edition_program_17931.html
+
+Descargar Visual Studio Express 2008
+https://www.filehorse.com/es/descargar-visual-studio-express/18142/
+
+Descarga Visual Studio 2008 Express (las versiones gratuitas)
+http://www.mundoprogramacion.com/lonuevo/2007/noviembre/20_descarga_visual_studio_2008_express.aspx
+
+VISUAL ESTUDIO 2008 Express download
+http://b.xfreeservice.com/redir/clickGate.php?u=8otB939m&m=12&p=3b121G4eNI&t=33&splash=0&s=&q=visual%20studio%202008%20express&url=https%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkId%3D104679
+
+
+VISUAL STUDIO 2010 EXPRESS
+
+Descargar Visual basic 2010 Express FULL Español [Mega] [Mediafire]
+https://www.youtube.com/watch?v=uqrWej5AItc
+https://mega.nz/#!DQ10QC5B!E8XVyl8CEqeCPk2E4nX7oSFsF1yizPk3huRjuf62qs8
+
+
+
+
+https://www.techworld.com/download/developer-programming/microsoft-visual-studio-2010-express-iso-216/
+https://www.itechtics.com/microsoft-visual-studio-all-versions-iso-download-links/
+
+
+DESCARGA VISUAL STUDIO 2012 FREE
+
+Download Visual Studio 2012 Full + Key - 1 Link only
+http://jimmidong03.blogspot.com/
+
+https://stackoverflow.com/questions/19448878/has-microsoft-removed-visual-studio-2012-express-links-for-good
+
+https://extr3metech.wordpress.com/2012/10/09/microsoft-visual-studio-2012-express-offline-install/
+
+https://www.hanselman.com/blog/FREEVisualStudioExpress2012ForWindowsDesktop.aspx
+
+https://www.filehorse.com/es/descargar-visual-studio-express/18144/
+
+https://www.tuinformaticafacil.com/descargas-gratis/herramientas-desarrollo/lenguajes-programacion/visual-studio-2012-express-para-windows-desktop
+
+https://www.youtube.com/watch?v=3OtnJZe4TKY
+
+https://www.unlockwindows.com/visual-studio-11-beta-system-requirements/
+
+
+Visual Studio 2013 Express
+https://www.youtube.com/watch?v=TzYjcugdhow
+
+
+VISUAL STUDIO Community
+
+2017
+
+https://aprendamosdeprogramacion.wordpress.com/2016/10/05/microsoft-visual-studio-community-espanol/
+
+Visual Studio Community 2017 
+
+https://my.visualstudio.com/downloads
+
+Visual Studio 2019
+
+Visual Studio Community
+
+https://visualstudio.microsoft.com/es/downloads/#d-express-windows-desktop?WT.mc_id=-blog-scottha
+
+Visual Studio Code
+
+https://code.visualstudio.com/docs?dv=win&wt.mc_id=DX_841432&sku=codewin
+
+******************
+
+
+Cómo utilizar el control Crystal Report en Visual Basic
+
+https://techlandia.com/utilizar-control-crystal-report-visual-basic-como_107459/
+
+
+INFO GENERAL
+
+http://foros.elguille.info/Mensajes.aspx?ID=58198
+
+Hay varios "sabores" de Visual Studio 2012 Express: web, 
+aplicaciones convencionales de escritorio, 
+aplicaciones "modernas" de la tienda de Windows 8 y Windows Phone 8. 
+Los dos últimos ya están obsoletos. ¿Cuál interesa?
+
+He encontrado enlaces oficiales de descarga de las imágenes ISO 
+de Visual Studio 2012 Express para escritorio en inglés y español, 
+y para desarrollo web sólo en inglés:
+
+
+http://download.microsoft.com/download/9/a/f/9af3cec7-468a-459a-b5f3-16067daa43a5/vs2012_webexp_enu.iso (Web, inglés)
+
+http://download.microsoft.com/download/1/F/5/1F519CC5-0B90-4EA3-8159-33BFB97EF4D9/VS2012_WDX_ENU.iso (escritorio, inglés)
+
+http://download.microsoft.com/download/A/3/A/A3AE11C4-7B3D-4E1A-9A42-1DA7F122FC0E/VS2012_WDX_ESN.iso (escritorio, español)
+
+Las imágenes ISO se pueden montar como unidades de CD virtuales o se puede extraer su contenido con un descompresor moderno como las últimas versiones de WinRAR y 7-Zip. Windows 8 y siguientes incluyen de serie la función de montaje de imágenes ISO; en Windows anteriores hay que usar programas específicos.
+
+
+https://docs.microsoft.com/en-us/previous-versions/ms950416(v=msdn.10)?redirectedfrom=MSDN
+
+https://docs.microsoft.com/en-us/learn/browse/?products=dotnet
+
+
 
